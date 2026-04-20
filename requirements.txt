@@ -1,0 +1,8 @@
+streamlit
+protobuf==3.20.3
+streamlit==1.37.1
+tensorflow==2.19.1
+numpy
+pandas
+scikit-learn
+protobuf==3.20.3
